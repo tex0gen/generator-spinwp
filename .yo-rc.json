@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Steve",
+      "authorEmail": "tex0gen@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
