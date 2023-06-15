@@ -15,7 +15,8 @@ When installed, run: `gh auth refresh` in your terminal and then `gh auth refres
 In your Terminal:
 - Run `npm install -g yo`
 - Copy this repo to your htdocs directory
-- Navigate your terminal to your htdocs directory and into the root of the `generator-spinwp` and run `npm link`.
+- Navigate your terminal to your htdocs directory and into the root of the `generator-spinwp` and run `npm install`.
+- In the same directory, run `npm link`
 - CD up a directory and run `yo spinwp` to start the generator.
 - Any issues should flag with missing dependencies. Install these dependencies and try again if the generator fails.
 
