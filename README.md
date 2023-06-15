@@ -26,4 +26,4 @@ You can either dump the plugins into the `generators/plugins` directory or add t
 By default, it'll select `https://github.com/tex0gen/bootstrap5-wordpress-theme` as the theme to use. You can change this in `generators/index.js` by replacing the URL to another git repo.
 
 ## Using
-Run `yo spinwp` and follow on-screen instructions. Job done!
+Run `yo spinwp` in your terminal when navigated to your root htdocs directory and follow on-screen instructions. Job done!
